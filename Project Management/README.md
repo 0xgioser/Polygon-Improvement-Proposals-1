@@ -12,7 +12,7 @@ The Polygon Builders meeting is a technical call intended to bring together vari
 
 ### Agendas
 
-The agendas for the calls are tracked in the Agenda folder of this repository, ([link](https://github.com/hrook1/Polygon-Improvement-Proposals/tree/main/Project%20Management/Agenda)). To add an item to an agenda, please [send a PR to the Agenda repo](https://github.com/hrook1/Polygon-Improvement-Proposals/issues/new) which mentions the topic you want to discuss and links any relevant materials (PIPs, prototypes, etc.). Then, leave a comment in the agenda where you would like this to be discussed. 
+The agendas for the calls are tracked in the Agenda folder of this repository, ([link](https://github.com/hrook1/Polygon-Improvement-Proposals/tree/main/Project%20Management/Agenda)). To add an item to an agenda, please [send a PR to the Agenda folder in this repo](https://github.com/hrook1/Polygon-Improvement-Proposals/issues/new) which mentions the topic you want to discuss and links any relevant materials (PIPs, prototypes, etc.). 
 
 Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
 
