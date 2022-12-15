@@ -12,7 +12,7 @@ The Polygon Builders meeting is a technical call intended to bring together vari
 
 ### Agendas
 
-The agendas for the calls are tracked in the Issues tab of this repository, under the "agenda" label ([link](https://github.com/hrook1/Polygon-Improvement-Proposals/labels)). To add an item to an agenda, please [open an issue in this repository](https://github.com/hrook1/Polygon-Improvement-Proposals/issues/new) which mentions the topic you want to discuss and links any relevant materials (EIPs, prototypes, etc.). Then, leave a comment in the agenda where you would like this to be discussed. 
+The agendas for the calls are tracked in the Agenda folder of this repository, ([link](https://github.com/hrook1/Polygon-Improvement-Proposals/tree/main/Project%20Management/Agenda)). To add an item to an agenda, please [send a PR to the Agenda repo](https://github.com/hrook1/Polygon-Improvement-Proposals/issues/new) which mentions the topic you want to discuss and links any relevant materials (PIPs, prototypes, etc.). Then, leave a comment in the agenda where you would like this to be discussed. 
 
 Anyone is welcome to add an item to the agenda as long as it follows these guidelines:
 
@@ -34,7 +34,7 @@ The meetings are independent of any organization. However, participants in the m
 
 | №   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording                                                                          |
 | --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| 1 | November 10, 2022, 14:00 UTC         | [agenda]() | [notes]()   |      |[Video]()    |
+| 1 | November 10, 2022, 14:00 UTC         | [agenda](https://github.com/hrook1/Polygon-Improvement-Proposals/tree/main/Project%20Management/Agenda) | [notes]()   |      |[Video]()    |
                                                                                                                                                                                                      |
 
 
