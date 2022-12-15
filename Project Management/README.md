@@ -8,7 +8,7 @@ The Google Calendar linked [here]() tracks upcoming protocol meetings.
 
 ### Purpose
 
-The Polygon Builders meeting is a technical call intended to bring together various core Polygon Developers who play major roles in determining the direction of the protocol. Polygon's Governance, Validator support and research teams provide updates on their projects, discuss various [PIPs](https://github.com/hrook1/Polygon-Improvement-Proposals) to improve the protocol, and support each other as we **build** Web 3.0.
+The Polygon Builders meeting is a technical call intended to bring together various core Polygon Developers who play major roles in determining the direction of the protocol. Polygon's Governance, Validator support, PoS and Research teams provide updates on their projects, discuss various [PIPs](https://github.com/hrook1/Polygon-Improvement-Proposals) to improve the protocol, and support each other as we **build** Web 3.0.
 
 ### Agendas
 
@@ -22,7 +22,7 @@ Anyone is welcome to add an item to the agenda as long as it follows these guide
 
 ### Who Can Attend
 
-Protocol developers, client developers, and core Polygon researchers are invited to attend the meetings. Sometimes a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [Jackson Lewis](mailto:jackson@polygon.technology).
+Protocol developers, client developers, network Validators and core Polygon researchers are invited to attend the meetings. Sometimes a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [Jackson Lewis](mailto:jackson@polygon.technology).
 
 ### Who Manages the Meetings
 
