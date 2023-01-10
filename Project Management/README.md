@@ -34,8 +34,5 @@ The meetings are independent of any organization. However, participants in the m
 
 | №   | Date                                 | Agenda                                              | Notes                                                                                                                                                                    | Recording                                                                          |
 | --- | ------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| 1 | November 10, 2022, 14:00 UTC         | [agenda](https://github.com/hrook1/Polygon-Improvement-Proposals/tree/main/Project%20Management/Agenda) | [notes]()  |                                                                                                             | [Video] (https://www.youtube.com/watch?v=CuYIL7uJomQ)    |
-                                                                                                                                                                                                     |
-
-
+| 1 | November 10, 2022, 14:00 UTC         | [agenda](https://github.com/hrook1/Polygon-Improvement-Proposals/tree/main/Project%20Management/Agenda) | [notes]() | [Video](https://www.youtube.com/watch?v=CuYIL7uJomQ)|_
 
