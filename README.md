@@ -6,7 +6,7 @@ This repository tracks ongoing improvements to Ethereum. It contains:
 
 - The [process document](https://forum.polygon.technology/) that governs how protocols are published here
 
-If you would like to become an EIP Editor, please check NEEDS UPDATE.
+If you would like to become an PIP Editor, please check NEEDS UPDATE.
 
 ## Mission
 
