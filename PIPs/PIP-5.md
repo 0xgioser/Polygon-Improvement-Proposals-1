@@ -1,6 +1,6 @@
-#PIP-5: Change in SprintLength
+# PIP-5: Change in SprintLength
 
-###Authors:
+### Authors:
 
 Sandeep Sreenath
 Paul O’Leary
