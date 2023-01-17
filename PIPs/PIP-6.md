@@ -12,9 +12,9 @@ Paul O’Leary
 
 ### Motivation
 
-Polygon PoS chain saw a major update in the beginning of 2022 when EIP-1559 was rolled out on Mainnet as part of the London Hardfork (EIP1559 (London Fork) on Mainnet) which changed the on-chain gas price dynamics. Although it works well majority of the time, during high demand, we have seen huge gas spikes due to rapid increase in the base fee. We propose to smoothen the change in base fee by changing the BaseFeeChangeDenominator.
+Polygon PoS chain saw a major update in the beginning of 2022 when EIP-1559 was rolled out on Mainnet as part of the London Hardfork [(EIP1559 (London Fork) on Mainnet)]([url](https://forum.polygon.technology/t/eip1559-london-fork-on-mainnet/549)) which changed the on-chain gas price dynamics. Although it works well majority of the time, during high demand, we have seen huge gas spikes due to rapid increase in the base fee. We propose to smoothen the change in base fee by changing the BaseFeeChangeDenominator.
 
-To know more about the implementation of EIP-1559 and its effects on Polygon, you can refer to Impact of EIP1559 and Future Possibilities
+To know more about the implementation of EIP-1559 and its effects on Polygon, you can refer to [Impact of EIP1559 and Future Possibilities]([url](https://forum.polygon.technology/t/impact-of-eip1559-and-future-possibilities/1749))
 
 To summarize, the main reasons for gas spikes happening during high demand are:
 
