@@ -1,3 +1,6 @@
+### Author: 
+Delroy Bosco
+
 ### Abstract:
 
 The Polygon chain has a soft limit of 100 validators securing the network. Once 100 validators have been onboarded to secure the network, there should be a way to add newer and highly proficient validators to the network to replace under-performing and bad validators. This particular mechanism of adding new validators is called the Auction Mechanism.
