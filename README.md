@@ -17,3 +17,24 @@ By introducing a transparent and versioned repository, the community maintains a
 ## Preferred Citation Format
 
 Consider any document not published at the PIP repositor as a working paper. Additionally, consider published PIPs with a status of "draft", "review", or "last call" to be incomplete drafts, and note that their specification is likely to be subject to change.
+
+# Project Manangement 
+
+### Purpose 
+
+The Polygon Builders is a meeting, where the Polygon community is encourgaed to discuss technical issues and coordinate their work around the Polygon POS. The meetings are attended by core contributors from various core developers and their respective organisations. 
+The calls are transcribed and recorded and will be available right after the meetings conclude. 
+
+### Agenda
+
+The Agenda for the meetings are hosted under the Project Management folder. Please send a pull request to the open Agenda which mentions the topic you want to discuss and links any relevant materials (PIPs, prototypes, etc.). 
+
+Anyone is welcome to add an item to the agenda as long as it follows the following guidelines: 
+
+- The topic is technical in nature.
+- The topic involves the Polygon protocol at a low-level. This means Dapps are generally not allowed as topics.
+- The topic should not be philosophical. The core developer meetings are not meant to decide philosophical contentious issues that should be decided by the community. There are exceptions to this, but generally these topics distract from more productive technical discussion.
+
+### Who Can Attend 
+
+Core Protocol developers, researchers, POS validators and dapp developers are invited to attend the meetings. 
