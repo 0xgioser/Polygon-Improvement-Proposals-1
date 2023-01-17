@@ -3,7 +3,9 @@
 ### Authors:
 
 Sandeep Sreenath
+
 Paul O’Leary
+
 Arpit Temani
 
 ### Status : Last Call
@@ -119,6 +121,6 @@ func TestSprintLengthReorg(t *testing.T) {
 bor/config.go at 4aa56c543acdea6e441990220efb87f0ff723d98 · maticnetwork/bor · GitHub
 bor/config.go at 4aa56c543acdea6e441990220efb87f0ff723d98 · maticnetwork/bor · GitHub
 
-####Forum Post:
+#### Forum Post:
 
 Pre-PIP Discussion: Addressing Reorgs and Gas Spikes 7
