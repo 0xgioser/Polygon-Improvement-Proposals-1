@@ -2,6 +2,8 @@
 
 **Before you initiate a pull request**, please read the [PIP-1](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/PIPs/PIP%20-1%20.md) process document. Ideas should be thoroughly discussed on the [Polygon Forum](https://forum.polygon.technology/) first.
 
+For more information on the processes and the PIP format visit the [How to PIP.md](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/How%20to%20PIP.md)
+
 This repository tracks ongoing improvements to Polygon. It contains:
 
 - The [process document](https://forum.polygon.technology/) that governs how protocols are published here
