@@ -43,4 +43,4 @@ Anyone is welcome to add an item to the agenda as long as it follows the followi
 
 ## Who Can Attend 
 
-Core Protocol developers, researchers, POS validators and dapp developers are invited to attend the meetings. 
+Core Protocol developers, researchers, POS validators, dapp developers and Ecosystem Partners are invited to attend the meetings. 
