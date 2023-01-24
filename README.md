@@ -22,6 +22,8 @@ By introducing a transparent and versioned repository, the community maintains a
 
 Consider any document not published at the PIP repositor as a working paper. Additionally, consider published PIPs with a status of "draft", "review", or "last call" to be incomplete drafts, and note that their specification is likely to be subject to change.
 
+---
+
 # Project Manangement 
 
 ## Purpose 
