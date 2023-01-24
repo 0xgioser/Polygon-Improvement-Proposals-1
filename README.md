@@ -6,7 +6,9 @@ For more information on the processes and the PIP format visit the [How to PIP.m
 
 This repository tracks ongoing improvements to Polygon. It contains:
 
-- The [process document](https://forum.polygon.technology/) that governs how protocols are published here
+- The [process document](https://forum.polygon.technology/) that governs how protocols is published here.
+- The PIPs that are successfully submited. 
+- The Project Management of the PIPs process and the Builders Meetings (read bellow). 
 
 If you would like to become an PIP Editor, please check NEEDS UPDATE.
 
