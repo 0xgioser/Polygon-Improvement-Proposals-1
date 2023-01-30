@@ -73,6 +73,8 @@ In the future, this would ideally be a governance vote for enabling or disabling
 
 As far as we think, we don't see any security considerations involving enabling Auctions on the Chain. This would induce a lot of engagement and pro-activeness on the validator front to ensure that they are always updated about everything.
 
+---
+
 ### References 
 
 [Polygon Forum discussion](https://forum.polygon.technology/t/pip-3-auction-mechansim-a-mechanism-to-replace-bad-and-under-performing-validators/8270)
