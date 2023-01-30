@@ -1,7 +1,9 @@
+# PIP-2: Proposal to distribute and decentralize staking power across the Polygon chain
+
 ### Author: 
 Delroy Bosco
 
-### Status: Draft
+### Status: Stagnant 
 
 ### Abstract:
 
@@ -56,3 +58,7 @@ There are no backwards compatibility issues in terms of functionality, as having
 ### **Security Considerations:**
 
 Although there is not much risk in implementing a minimum commission, any modification or new deployment of a contract inherits risks of bugs. Issues with the updateCommissionRate should only be limited to allowing validators to choose any number for their commission, and should not extend into other parts of the contract or Polygon ecosystem.
+
+### References 
+
+[Polygon Forum discussion](https://forum.polygon.technology/t/pip-2-proposal-to-distribute-and-decentralize-staking-power-across-the-polygon-chain/219/1)
