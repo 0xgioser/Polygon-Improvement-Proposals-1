@@ -121,5 +121,5 @@ For block50 :
 
 ### References
 
-- Pre-PIP Discussion: Addressing Reorgs and Gas Spikes 2(https://forum.polygon.technology/t/pre-pip-discussion-addressing-reorgs-and-gas-spikes/10623/25) 
+- [Pre-PIP Discussion: Addressing Reorgs and Gas Spikes 2](https://forum.polygon.technology/t/pre-pip-discussion-addressing-reorgs-and-gas-spikes/10623/25) 
 - [Polygon Forum Discussion](https://forum.polygon.technology/t/pip-6-change-in-basefeechangedenominator/10875/4) 
