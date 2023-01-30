@@ -4,7 +4,7 @@
 
 For more information on the processes and the PIP format visit the [How to PIP.md](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/How%20to%20PIP.md)
 
-This repository tracks ongoing improvements to Polygon PoS. It contains:
+This repository tracks ongoing improvements to Polygon PoS chain. It contains:
 
 - The [process document](https://forum.polygon.technology/) that governs how protocol changes are published.
 - The PIPs that are successfully submited. 
@@ -28,7 +28,7 @@ Consider any document not published at the PIP repositor as a working paper. Add
 
 ## Purpose 
 
-The Polygon Builders is a meeting where the Polygon community is encourged to discuss technical issues and coordinate their work around the Polygon PoS. The meetings are attended by core developers, validators, ecosystem partners and dapps developers.  
+The Polygon Builders is a meeting where the Polygon community is encourged to discuss technical issues and coordinate their work around the Polygon PoS chain. The meetings are attended by core developers, validators, ecosystem partners and dapps developers.  
 The calls are transcribed and recorded and will be available right after the meetings conclude. 
 
 ## Agenda
@@ -43,4 +43,4 @@ Anyone is welcome to add an item to the agenda as long as it follows the followi
 
 ## Who Can Attend 
 
-Core Protocol developers, researchers, POS validators, dapp developers and Ecosystem Partners are invited to attend the meetings. 
+Core Protocol developers, researchers, POS validators, Dapp developers and Ecosystem Partners are invited to attend the meetings. 
