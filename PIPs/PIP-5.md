@@ -8,7 +8,7 @@ Paul O’Leary
 
 Arpit Temani
 
-### Status : Last Call
+### Status : Final
 
 ### Motivation
 
@@ -121,6 +121,9 @@ func TestSprintLengthReorg(t *testing.T) {
 bor/config.go at 4aa56c543acdea6e441990220efb87f0ff723d98 · maticnetwork/bor · GitHub
 bor/config.go at 4aa56c543acdea6e441990220efb87f0ff723d98 · maticnetwork/bor · GitHub
 
-#### Forum Post:
+--- 
 
-Pre-PIP Discussion: Addressing Reorgs and Gas Spikes 7
+### Forum discussions:
+
+- Pre-PIP Discussion: Addressing Reorgs and Gas Spikes 7(https://forum.polygon.technology/t/pre-pip-discussion-addressing-reorgs-and-gas-spikes/10623/25)
+- [Polygon Forum Discussion](https://forum.polygon.technology/t/pip-5-change-in-sprintlength/10874/4)
