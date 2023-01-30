@@ -63,4 +63,4 @@ Although there is not much risk in implementing a minimum commission, any modifi
 
 ### References 
 
-[Polygon Forum discussion](https://forum.polygon.technology/t/pip-2-proposal-to-distribute-and-decentralize-staking-power-across-the-polygon-chain/219/1)
+[Polygon Forum Discussion](https://forum.polygon.technology/t/pip-2-proposal-to-distribute-and-decentralize-staking-power-across-the-polygon-chain/219/1)
