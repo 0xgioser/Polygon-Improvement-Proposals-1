@@ -77,4 +77,4 @@ As far as we think, we don't see any security considerations involving enabling 
 
 ### References 
 
-[Polygon Forum discussion](https://forum.polygon.technology/t/pip-3-auction-mechansim-a-mechanism-to-replace-bad-and-under-performing-validators/8270)
+[Polygon Forum Discussion](https://forum.polygon.technology/t/pip-3-auction-mechansim-a-mechanism-to-replace-bad-and-under-performing-validators/8270)
