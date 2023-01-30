@@ -146,6 +146,8 @@ In order to maintain network integrity and guarantee an active set of 100 effici
 
 As the network has matured and seen wide adoption, it seems warranted to provide new validator slots for added decentralization and security. A conservative increase of 5 slots seems like it would serve as a good starting point.
 
+---
+
 ### References
 
 [Polygon Forum Discussion](https://forum.polygon.technology/t/pip-4-validator-performance-management/9956/24)
