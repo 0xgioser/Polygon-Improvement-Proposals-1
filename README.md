@@ -10,7 +10,7 @@ This repository tracks ongoing improvements to Polygon PoS. It contains:
 - The PIPs that are successfully submited. 
 - The Project Management of the PIPs process and the Builders Meetings (read bellow). 
 
-If you would like to become an PIP Editor, please check NEEDS UPDATE.
+If you would like to become an PIP Editor, please check [here](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/How%20to%20become%20a%20PIP%20Editor.md) and [fill up this form](https://docs.google.com/forms/d/e/1FAIpQLSc6GYClhafq5sPsRDhvJeCf66dCq_iwKzwdv8uVIfu_4Y1YLw/viewform).
 
 ## Mission
 
