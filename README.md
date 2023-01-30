@@ -38,7 +38,7 @@ The Agenda for the meetings is hosted under the Project Management folder. Pleas
 Anyone is welcome to add an item to the agenda as long as it follows the following guidelines: 
 
 - The topic is technical in nature.
-- The topic involves the Polygon protocol at a low-level. This means Dapps are generally not allowed as topics.
+- The topic involves the Polygon protocol at a low-level. This means that specific Dapps are generally not allowed as topics.
 - The topic should not be philosophical. The core developer meetings are not meant to decide philosophical contentious issues that should be decided by the community. There are exceptions to this, but generally these topics distract from more productive technical discussion.
 
 ## Who Can Attend 
