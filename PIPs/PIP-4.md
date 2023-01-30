@@ -1,6 +1,6 @@
 # PIP- 4: Validator Performance Management Proposal 
 
-**Authors:**
+##Authors:
 
 Eric Hill
 
@@ -145,3 +145,7 @@ At times, a situation may arise in which an underperforming validator has alread
 In order to maintain network integrity and guarantee an active set of 100 efficient validators, we propose increasing the maximum validator count to 105 from 100.
 
 As the network has matured and seen wide adoption, it seems warranted to provide new validator slots for added decentralization and security. A conservative increase of 5 slots seems like it would serve as a good starting point.
+
+### References
+
+[Polygon Forum Discussion](https://forum.polygon.technology/t/pip-4-validator-performance-management/9956/24)
