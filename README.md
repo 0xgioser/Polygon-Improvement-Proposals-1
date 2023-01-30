@@ -28,7 +28,7 @@ Consider any document not published at the PIP repositor as a working paper. Add
 
 ## Purpose 
 
-The Polygon Builders is a meeting where the Polygon community is encourgaed to discuss technical issues and coordinate their work around the Polygon PoS. The meetings are attended by core developers, validators, ecosystem partners and dapps developers.  
+The Polygon Builders is a meeting where the Polygon community is encourged to discuss technical issues and coordinate their work around the Polygon PoS. The meetings are attended by core developers, validators, ecosystem partners and dapps developers.  
 The calls are transcribed and recorded and will be available right after the meetings conclude. 
 
 ## Agenda
