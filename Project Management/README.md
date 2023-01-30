@@ -2,8 +2,6 @@
 
 This repository is used for the management for various initiatives affecting the different Polygon's products. The main use of this repository is for the Builders meetings, but it is also used for other meetings/ discussions related to Polygon's products.
 
-The Google Calendar linked [here]() tracks upcoming protocol meetings.
-
 ## Polygon Builders Meetings
 
 ### Purpose
