@@ -1,4 +1,4 @@
-# PIP-7: Delhi Hardfork****
+# PIP-7: Delhi Hardfork
 
 ### Authors:
 
