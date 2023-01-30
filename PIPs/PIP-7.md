@@ -4,6 +4,10 @@
 
 Harry Rook
 
+### Status
+
+Final
+
 ### Abstract
 
 This PIP specifies the changes included in the Polygon hardfork named Delhi.
@@ -23,5 +27,5 @@ This PIP specifies the changes included in the Polygon hardfork named Delhi.
 
 ### References
 
-1. Included PIPs were finalized in Polygon Builder Sessions 001.
-2. https://forum.polygon.technology/t/pre-pip-discussion-addressing-reorgs-and-gas-spikes/10623
+- [Included PIPs were finalized in Polygon Builder Sessions 001.](https://www.youtube.com/watch?v=CuYIL7uJomQ)
+- [Polygon Forum Discussions](https://forum.polygon.technology/t/pre-pip-discussion-addressing-reorgs-and-gas-spikes/10623)
