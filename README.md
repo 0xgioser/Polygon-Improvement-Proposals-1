@@ -4,7 +4,7 @@
 
 For more information on the processes and the PIP format visit the [How to PIP.md](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/How%20to%20PIP.md)
 
-This repository tracks ongoing improvements to Polygon. It contains:
+This repository tracks ongoing improvements to Polygon PoS. It contains:
 
 - The [process document](https://forum.polygon.technology/) that governs how protocol changes are published here.
 - The PIPs that are successfully submited. 
