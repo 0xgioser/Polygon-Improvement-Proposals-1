@@ -1,6 +1,6 @@
 # PIP- 4: Validator Performance Management Proposal 
 
-##Authors:
+## Authors:
 
 Eric Hill
 
