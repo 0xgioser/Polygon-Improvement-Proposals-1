@@ -1,6 +1,7 @@
 # Polygon Improvement Proposals (PIPs)
 
 **Before you initiate a pull request**, please read the [PIP-1](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/PIPs/PIP%20-1%20.md) process document. Ideas should be thoroughly discussed on the [Polygon Forum](https://forum.polygon.technology/) first.
+If your proposal is discussing a new contract standard make sure you sumbitted under the [Polygon Request for Comment(PRC) folder](https://github.com/hrook1/Polygon-Improvement-Proposals/tree/main/PRC)
 
 For more information on the processes and the PIP format visit the [How to PIP.md](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/How%20to%20PIP.md)
 
