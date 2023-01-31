@@ -8,6 +8,7 @@ This repository tracks ongoing improvements to Polygon PoS chain. It contains:
 
 - The [process document](https://forum.polygon.technology/) that governs how protocol changes are published.
 - The PIPs that are successfully submited. 
+- The [PRC folder](https://github.com/hrook1/Polygon-Improvement-Proposals/tree/main/PRC), which similarly to "Ethereum Request for Comment" (ERC), the Polygon Request for Comment (PRC) is dedicated to PIP proposals that discuss token standards. 
 - The Project Management of the PIPs process and the Builders Meetings (read bellow). 
 
 If you would like to become an PIP Editor, please check [here](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/How%20to%20become%20a%20PIP%20Editor.md) and [fill up this form](https://docs.google.com/forms/d/e/1FAIpQLSc6GYClhafq5sPsRDhvJeCf66dCq_iwKzwdv8uVIfu_4Y1YLw/viewform).
