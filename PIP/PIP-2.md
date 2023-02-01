@@ -1,9 +1,12 @@
+
 # PIP-2: Proposal to distribute and decentralize staking power across the Polygon chain
 
 ### Author: 
 Delroy Bosco
 
 ### Status: Stagnant 
+
+### Type: Contracts
 
 ### Abstract:
 
