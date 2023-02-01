@@ -8,6 +8,9 @@ Harry Rook
 
 Final
 
+### Type: Core
+
+
 ### Abstract
 
 This PIP specifies the changes included in the Polygon hardfork named Delhi.
