@@ -12,6 +12,8 @@ Arpit Temani
 
 ### Type: Core
 
+---
+
 ### Motivation
 
 Block reorgs are possible on the Polygon POS chain as the consensus mechanism bor uses is probabilistic - meaning that finality is eventual and typically based on the number of confirmations layered on top of the block holding your transaction. Although there has been a reduction in the frequency of reorgs with the introduction of the BDN, it is still prevalent and a cause for concern among DApp developers.
