@@ -10,6 +10,8 @@ Mateusz Rzeszowski
 
 ### **Status : Final**
 
+### Type: Interface
+
 ### Abstract
 
 In its current state, the PoS validator network is not entirely permissionless in that the previously-selected set of validators has largely persisted since testnet. 
