@@ -8,6 +8,8 @@ Delroy Bosco
 
 ### Type: Contracts
 
+---
+
 ### Abstract:
 
 Polygon has seen an explosion in staking in the over one year mainnet has been active. All 100 validator slots are now filled, but the distribution of delegated MATIC is clustered around large validators with low or 0% commission. Unfortunately, this has caused centralization and puts the network at risk. By increasing the minimum commission, the validators, delegators, and the network can benefit:
