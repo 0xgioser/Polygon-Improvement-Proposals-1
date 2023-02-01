@@ -10,6 +10,8 @@ Paul O’Leary
 
 ### Status : Final
 
+### Type: Core
+
 ### Motivation
 
 Polygon PoS chain saw a major update in the beginning of 2022 when EIP-1559 was rolled out on Mainnet as part of the London Hardfork [(EIP1559 (London Fork) on Mainnet](https://forum.polygon.technology/t/eip1559-london-fork-on-mainnet/549)) which changed the on-chain gas price dynamics. Although it works well majority of the time, during high demand, we have seen huge gas spikes due to rapid increase in the base fee. We propose to smoothen the change in base fee by changing the BaseFeeChangeDenominator.
