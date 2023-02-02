@@ -1,3 +1,7 @@
+| PIP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
+|-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
+| 6 | Change in BaseFeeChangeDenominator  | Proposes a change in the BaseFeeChangeDenominator | Shivam Sharma, Sandeep Sreenath, Paul O’Leary | [Forum](https://forum.polygon.technology/t/pip-6-change-in-basefeechangedenominator/10875/4)  | Final | Core | 2023-01-10 |
+
 # PIP-6: Change in BaseFeeChangeDenominator
 
 ### Authors:
