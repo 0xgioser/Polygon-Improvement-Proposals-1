@@ -3,7 +3,7 @@
 
 | PIP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| To be assigned | The PIP title is a few words  | One short sentence | Authors name + Github/email | URL to Forum  | Draft  | Core, Contracts, Interface or Informal | (yyyy-mm-dd) format |
+| To be assigned | The PIP title is a few words  | One short sentence | Authors name + Github/email | URL to Forum  | Draft  | Core, Contracts, Interface or Informational | (yyyy-mm-dd) format |
 
 This is the suggested template for new PIPs.
 
