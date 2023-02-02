@@ -1,4 +1,6 @@
 
+## When you want to submit a new PIP, please follow the following format! 
+
 | PIP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
 | To be assigned | The PIP title is a few words  | One short sentence | Authors name + Github/email | URL to Forum  | Draft  | Core, Contracts, Interface or Informal | (yyyy-mm-dd) format |
