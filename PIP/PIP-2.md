@@ -1,3 +1,7 @@
+| PIP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
+|-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
+| 2 | Proposal to distribute and decentralize staking power across the Polygon chain  | Proposal to increase the minimun commission. | Delroy Bosco | URL to Forum  | Stagnant | Contracts | (2021-11-01) format |
+
 
 # PIP-2: Proposal to distribute and decentralize staking power across the Polygon chain
 
