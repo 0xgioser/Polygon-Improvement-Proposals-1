@@ -3,17 +3,6 @@
 | 3 | Auction Mechansim - A Mechanism to replace bad and under-performing validators| Proposes a mechanism to replace under-performing validators |Delroy Bosco | [Forum](https://forum.polygon.technology/t/pip-3-auction-mechansim-a-mechanism-to-replace-bad-and-under-performing-validators/8270/6)|Stagnant | Contracts | 2021-6-01 |
 
 
-# PIP-3: Auction Mechansim - A Mechanism to replace bad and under-performing validators
-
-### Author: 
-Delroy Bosco
-
-### Status: Stagnant
-
-### Type: Contracts
-
----
-
 ### Abstract:
 
 The Polygon chain has a soft limit of 100 validators securing the network. Once 100 validators have been onboarded to secure the network, there should be a way to add newer and highly proficient validators to the network to replace under-performing and bad validators. This particular mechanism of adding new validators is called the Auction Mechanism.
