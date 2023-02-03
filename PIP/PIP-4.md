@@ -1,6 +1,6 @@
 | PIP               | Title                           | Description          | Author                        | Discussion | Status | Type                                     | Date                  |
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
-| 4 | Validator Performance Management Proposal   | Proposes a framework that will allow further decentralization of the network by means of validator self-regulation.   | Eric Hill, Harry Rook, Mateusz Rzesowski | [Forum](https://forum.polygon.technology/t/pip-4-validator-performance-management/9956) | Final | Interface | 2022-08-22|
+| 4 | Validator Performance Management Proposal   | Proposes a framework that will allow further decentralization of the network by means of validator self-regulation.   | Eric Hill, Harry Rook, Mateusz Rzesowski | [Forum](https://forum.polygon.technology/t/pip-4-validator-performance-management/9956) | Final | Contracts | 2022-08-22|
 
 
 
