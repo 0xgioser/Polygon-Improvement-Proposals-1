@@ -3,17 +3,6 @@
 | 2 | Proposal to distribute and decentralize staking power across the Polygon chain  | Proposal to increase the minimun commission. | Delroy Bosco | [Forum](https://forum.polygon.technology/t/pip-2-proposal-to-distribute-and-decentralize-staking-power-across-the-polygon-chain/219/11)  | Stagnant | Contracts | 2021-11-01
 
 
-# PIP-2: Proposal to distribute and decentralize staking power across the Polygon chain
-
-### Author: 
-Delroy Bosco
-
-### Status: Stagnant 
-
-### Type: Contracts
-
----
-
 ### Abstract:
 
 Polygon has seen an explosion in staking in the over one year mainnet has been active. All 100 validator slots are now filled, but the distribution of delegated MATIC is clustered around large validators with low or 0% commission. Unfortunately, this has caused centralization and puts the network at risk. By increasing the minimum commission, the validators, delegators, and the network can benefit:
