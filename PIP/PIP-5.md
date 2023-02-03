@@ -2,21 +2,7 @@
 |-------------------|---------------------------------|----------------------|-------------------------------|------------|--------|------------------------------------------|-----------------------|
 | 5 | Change in SprintLength  | Proposes a change in the SprintLenght | Sandeep Sreenath, Paul O’Leary, Arpit Temani | [Forum](https://forum.polygon.technology/t/pip-5-change-in-sprintlength/10874/4)  | Final  | Core |      2023-01-10        |
 
-# PIP-5: Change in SprintLength
 
-### Authors:
-
-Sandeep Sreenath
-
-Paul O’Leary
-
-Arpit Temani
-
-### Status : Final
-
-### Type: Core
-
----
 
 ### Motivation
 
