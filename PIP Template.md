@@ -9,7 +9,6 @@ This is the suggested template for new PIPs.
 
 Note that an PIP number and status will be assigned by an editor. When opening a pull request to submit your PIP, please use an abbreviated title in the filename, `pip-draft_title_abbrev.md`.
 
-The title should be 44 characters or less. It should not repeat the EIP number in title, irrespective of the category.
 
 ## Abstract
 
