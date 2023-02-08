@@ -25,7 +25,7 @@ Consider any document not published at the PIP repositor as a working paper. Add
 
 ---
 
-# Project Manangement 
+# Project Management 
 
 ## Purpose 
 
