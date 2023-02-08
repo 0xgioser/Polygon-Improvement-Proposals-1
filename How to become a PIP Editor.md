@@ -9,7 +9,7 @@ Responsibilities as an PIP Editor include:
 - Ensure PIPs submitted are related to Polygon and follow the PIP standards.
 - Approve and merge submitted PIPs.
 
-**Polygon is looking for PIP Editors.**
+**The Polygon community is looking for PIP Editors.**
 
 ## Who can become a PIP editor and what are the requirements?
 
