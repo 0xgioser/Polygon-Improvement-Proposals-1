@@ -16,7 +16,7 @@ Abstract is a short (~200 word) description of the technical issue being address
 
 ## Motivation
 
-Motivation is critical for PIPs that want to change the Polygon protocol. The motivation section should describe the "why" of this PIP. What problem does it solve? Why should someone want to implement this standard? What are the benefits it provides to the Polygon Ecosystem? What are the use cases for this PIP?
+Motivation is critical for PIPs that want to change the Polygon protocols. The motivation section should describe the "why" of this PIP. What problem does it solve? Why should someone want to implement this standard? What are the benefits it provides to the Polygon Ecosystem? What are the use cases for this PIP?
 
 ## Specification
 The technical specification should describe the syntax and semantics of any new feature. The specification should be detailed enough to allow competing, interoperable implementations for any of the current Polygon protocols.
