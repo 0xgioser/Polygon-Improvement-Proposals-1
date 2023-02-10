@@ -15,7 +15,7 @@ Responsibilities as an PIP Editor include:
 
 Everyone can apply to become a PIP editor, given that they match the following requirements: 
 
-- Understands Polygon PoS at least at an expert level.
+- Understands Polygon products at least at an expert level.
 - Is familiar with the PIP framework and similar frameworks used on other decentralised blockchains.
 - Proficient using GitHub.
 - Good communicator.
