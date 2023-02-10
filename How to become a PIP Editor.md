@@ -6,7 +6,7 @@ Responsibilities as an PIP Editor include:
 
 - Making sure PIPs are well-formatted and technically complete.
 - Working with authors to get new PIPs into the repo and assist them in submitting PullRequests.
-- Ensure PIPs submitted are related to Polygon and follow the PIP standards.
+- Ensure PIPs submitted are related to Polygon products and follow the PIP standards.
 - Approve and merge submitted PIPs.
 
 **The Polygon community is looking for PIP Editors.**
@@ -16,7 +16,7 @@ Responsibilities as an PIP Editor include:
 Everyone can apply to become a PIP editor, given that they match the following requirements: 
 
 - Understands Polygon PoS at least at an expert level.
-- Is familiar with the Polygon PIP framework and similar frameworks used on other decentralised blockchains.
+- Is familiar with the PIP framework and similar frameworks used on other decentralised blockchains.
 - Proficient using GitHub.
 - Good communicator.
 - Is able to handle contentious discourse in a good manner.
