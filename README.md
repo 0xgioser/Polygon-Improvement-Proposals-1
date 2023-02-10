@@ -1,10 +1,10 @@
 # Polygon Improvement Proposals (PIPs)
 
-**Before you initiate a pull request**, please read the [PIP-1](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/PIPs/PIP%20-1%20.md) process document. Ideas should be thoroughly discussed on the [Polygon Forum](https://forum.polygon.technology/) first.
+**Before you initiate a pull request**, please read the [PIP-1](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/PIPs/PIP%20-1%20.md) process document. Ideas should be thoroughly discussed on the [Polygon community Forum](https://forum.polygon.technology/) first.
 If your proposal is discussing a new contract standard make sure you sumbit it under the [Polygon Request for Comment (PRC) folder](https://github.com/hrook1/Polygon-Improvement-Proposals/tree/main/PIP/PRC).
 For more information on the processes and the PIP format visit the [How to PIP.md](https://github.com/hrook1/Polygon-Improvement-Proposals/blob/main/How%20to%20PIP.md)
 
-This repository tracks ongoing improvements to the Polygon PoS chain. It contains:
+This repository tracks ongoing improvements to the Polygon Polygon protocols. It contains:
 
 - The [process document](https://forum.polygon.technology/) that governs how protocol changes are published.
 - The successfully submitted PIPs. 
@@ -29,8 +29,7 @@ Consider any document not published at the PIP repositor as a working paper. Add
 
 ## Purpose 
 
-The Polygon Builders meeting is where the Polygon community is encouraged to discuss technical issues and coordinate their work around the Polygon PoS chain. The meetings are attended by core developers, validators, ecosystem partners, and dapps developers.
-The calls are transcribed and recorded and will be available immediately after the meetings conclude.
+The Polygon Builders' meeting is a technical call intended to bring together various Polygon Labs' developers like those on the Governance, Validator supprot, PoS and Research teams with the broader Polygon comunity to provide updates on their projects, discuss various PIPs to improve the protocols, and support each other as we build Web 3.0. The calls are transcribed and recorded and will be available immediately after the meetings conclude.
 
 ## Agenda
 
@@ -39,9 +38,9 @@ The agenda for the meetings is hosted under the Project Management folder. Pleas
 Anyone is welcome to add an item to the agenda as long as it follows the following guidelines: 
 
 - The topic is technical in nature.
-- The topic involves the Polygon protocol at a low-level. This means that specific Dapps are generally not allowed as topics.
+- The topic involves the Polygon protocols at a low-level. This means that specific Dapps are generally not allowed as topics.
 - The topic should not be philosophical. The core developer meetings are not meant to decide philosophical contentious issues that should be decided by the community. There are exceptions to this, but generally, these topics distract from more productive technical discussion.
 
 ## Who Can Attend 
 
-Core Protocol developers, researchers, POS validators, Dapp developers and Ecosystem Partners are invited to attend the meetings. 
+Core Protocol developers, Polygon Labs Researchers, PoS validators, and the dApp and ecosystem community members are invited to attend the meetings.
