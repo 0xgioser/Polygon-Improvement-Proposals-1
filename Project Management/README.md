@@ -1,6 +1,6 @@
 # Polygon Proposals Management Repository 
 
-This repository is used for the management for various initiatives affecting the different Polygon's products. The main use of this repository is for the Builders meetings, but it is also used for other meetings/ discussions related to Polygon's products.
+This repository is used by the Polygon community to manage various initiatives related to various Polygon protocols. This information can be used at Builders' meetings and other forum for discussion of Polygon protocols.
 
 ## Polygon Builders Meetings
 
@@ -20,13 +20,13 @@ Anyone is welcome to add an item to the agenda as long as it follows these guide
 
 ### Who Can Attend
 
-Protocol developers, client developers, network Validators and core Polygon researchers, Dapp and Ecosystem Partners are invited to attend the meetings. Sometimes a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [Jackson Lewis](mailto:jackson@polygon.technology).
+Protocol developers, client developers, network Validators and core Polygon researchers, community members (eg., Dapp and ecosystem community members) are invited to attend the meetings. Sometimes a non-core developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to [Jackson Lewis](mailto:jackson@polygon.technology).
 
 ### Who Manages the Meetings
 
-The meetings are facilitated by Jackson Lewis. The meetings are recorded and transcribed. The transcripts, meeting minutes and video will be uploaded after the completion of the meetings in this public repository. 
+The meetings are facilitated by Jackson Lewis. The meetings are recorded and transcribed. The transcripts, meeting minutes and video will be uploaded after the completion of the meetings in this public repository.
 
-The meetings are independent of any organization. However, participants in the meetings may also be Polygon Employes (Not sure about that, but I believe we need some sort of disclaimer).
+The meetings are independent of any organization. However, participants in the meetings may also be PolygonLabs' Employes.
 
 ### Previous Meetings
 
