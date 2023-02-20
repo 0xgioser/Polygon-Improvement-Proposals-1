@@ -29,7 +29,7 @@ Consider any document not published at the PIP repositor as a working paper. Add
 
 ## Purpose 
 
-The Polygon Builders' meeting is a technical call intended to bring together various Polygon Labs' developers like those on the Governance, Validator support, PoS and Research teams with the broader Polygon community to provide updates on their projects, discuss various PIPs to improve the protocols, and support each other as we build Web 3.0. 
+The Polygon Builders' Sessions is a technical call intended to bring together various Polygon Labs' developers like those on the Governance, Validator support, PoS and Research teams with the broader Polygon community to provide updates on their projects, discuss various PIPs to improve the protocols, and support each other as we build Web 3.0. 
 The calls are transcribed and recorded and will be available immediately after the meetings conclude.
 
 ## Agenda
